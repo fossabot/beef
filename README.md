@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fbeef.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fbeef?ref=badge_shield)
+
 ===============================================================================
 
     Copyright (c) 2006-2025 Wade Alcorn - wade@bindshell.net
@@ -74,3 +76,7 @@ To get started, simply execute beef and follow the instructions:
 ```
 $ ./beef
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fbeef.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fbeef?ref=badge_large)
